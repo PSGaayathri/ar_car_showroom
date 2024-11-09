@@ -14,4 +14,4 @@ It is a professional Car Showroom App based on Augmented reality with voice comm
 
 6) Then in Unity, you will see a Project Tab, go inside the scenes folder and then select the Intro scene by double clicking on it. 
 
-7) Then you can modify and improve the project or if yopu want to just see it, then click Play.
+7) Then you can modify and improve the project or if ypu want to just see it, then click Play.
